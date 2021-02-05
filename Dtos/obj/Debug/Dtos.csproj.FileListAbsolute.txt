@@ -1,0 +1,12 @@
+C:\Users\inakama\source\3gis\DataMunging2\DataMunging\Dtos\bin\Debug\Dtos.dll
+C:\Users\inakama\source\3gis\DataMunging2\DataMunging\Dtos\bin\Debug\Dtos.pdb
+C:\Users\inakama\source\3gis\DataMunging2\DataMunging\Dtos\obj\Debug\Dtos.csproj.CoreCompileInputs.cache
+C:\Users\inakama\source\3gis\DataMunging2\DataMunging\Dtos\obj\Debug\Dtos.dll
+C:\Users\inakama\source\3gis\DataMunging2\DataMunging\Dtos\obj\Debug\Dtos.pdb
+C:\Users\inakama\source\3gis\DataMunging2\DataMunging\Dtos\obj\Debug\Dtos.csprojAssemblyReference.cache
+C:\Users\inakama\source\3gis\DataMunging\Dtos\bin\Debug\Dtos.dll
+C:\Users\inakama\source\3gis\DataMunging\Dtos\bin\Debug\Dtos.pdb
+C:\Users\inakama\source\3gis\DataMunging\Dtos\obj\Debug\Dtos.csprojAssemblyReference.cache
+C:\Users\inakama\source\3gis\DataMunging\Dtos\obj\Debug\Dtos.csproj.CoreCompileInputs.cache
+C:\Users\inakama\source\3gis\DataMunging\Dtos\obj\Debug\Dtos.dll
+C:\Users\inakama\source\3gis\DataMunging\Dtos\obj\Debug\Dtos.pdb
