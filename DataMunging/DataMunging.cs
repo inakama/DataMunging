@@ -32,7 +32,7 @@ namespace DataMunging.ConsoleApp
         {
             foreach (var data in dataMunging)
             {
-                Console.Write(data.Date.ToString("dd/MM/yyyy") + " : ");
+                Console.Write(data.Date.ToString("MM/dd/yyyy") + " : ");
                 Console.Write(data.Location + " - ");
                 Console.Write("$" + data.TotalAmount);
 

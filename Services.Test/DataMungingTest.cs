@@ -65,7 +65,6 @@ namespace Services.Test
                    new ExpenseInputDto() {  Date = DateTime.Now, Location = "Starbucks",  CategoryCode = "CFE" }
             };
 
-
             var dataMunging = this.dataMungingService.GetDataMunging(categories, expenses);
 
             Assert.AreEqual(dataMunging.Count, 0);
@@ -95,7 +94,7 @@ namespace Services.Test
         }
 
         [Test]
-        public void When_TwoExpensesWithTheSameDateAndLocation_Expect_TheirCostsAreAdded()
+        public void When_ExistTwoExpensesWithTheSameDateAndLocation_Expect_TheirCostsAreAdded()
         {
             var categories = new List<CategoryInputDto>()
             {
@@ -120,7 +119,7 @@ namespace Services.Test
 
 
         [Test]
-        public void When_SomeExpensesWithDifferentDateButSameLocation_Expect_ToBeSeparatedAndOrderedByDate()
+        public void When_SomeExpensesWithDifferentDateButTheSameLocation_Expect_ToBeSeparatedAndOrderedByDate()
         {
 
             var categories = new List<CategoryInputDto>()
@@ -149,7 +148,7 @@ namespace Services.Test
         }
 
         [Test]
-        public void When_SomeExpensesWithDifferentsLocationButSameDate_Expect_ToBeSeparatedAndOrderedByDateAndThenByLocation()
+        public void When_SomeExpensesWithDifferentLocationButTheSameDate_Expect_ToBeSeparatedAndOrderedByDateAndThenByLocation()
         {
 
             var categories = new List<CategoryInputDto>()
